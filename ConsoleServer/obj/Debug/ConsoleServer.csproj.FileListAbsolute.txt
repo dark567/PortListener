@@ -1,0 +1,8 @@
+D:\project\c#\PortListener\PortListener\ConsoleServer\bin\Debug\ConsoleServer.exe.config
+D:\project\c#\PortListener\PortListener\ConsoleServer\bin\Debug\ConsoleServer.exe
+D:\project\c#\PortListener\PortListener\ConsoleServer\bin\Debug\ConsoleServer.pdb
+D:\project\c#\PortListener\PortListener\ConsoleServer\obj\Debug\ConsoleServer.csproj.CoreCompileInputs.cache
+D:\project\c#\PortListener\PortListener\ConsoleServer\obj\Debug\ConsoleServer.exe
+D:\project\c#\PortListener\PortListener\ConsoleServer\obj\Debug\ConsoleServer.pdb
+D:\project\c#\PortListener\PortListener\ConsoleServer\bin\Debug\set.ini
+D:\project\c#\PortListener\PortListener\ConsoleServer\obj\Debug\ConsoleServer.csprojAssemblyReference.cache
